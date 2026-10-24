@@ -1,9 +1,9 @@
 {
-  "latest": "1.0.0",
+  "latest": "1.0.1",
   "min": "1.0.0",
-  "ref": "v1.0.0",
-  "released": "2026-10-21",
+  "ref": "v1.0.1",
+  "released": "2026-10-24",
   "notes": [
-    "First release of AUTOM8TE MD"
+    "Fixed many commands that use APIs"
   ]
 }
