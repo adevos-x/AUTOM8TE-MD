@@ -1,9 +1,12 @@
 {
-  "latest": "1.0.1",
+  "latest": "1.0.2",
   "min": "1.0.0",
-  "ref": "v1.0.1",
+  "ref": "v1.0.2",
   "released": "2026-10-24",
   "notes": [
-    "Fixed many commands that use APIs"
+    "Fixed & added AI cmds",
+    "Fixed Sports cmds",
+    "Fixed Chatbot working",
+    "Sticker to image",
   ]
 }
