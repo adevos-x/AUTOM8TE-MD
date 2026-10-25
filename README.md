@@ -1,47 +1,79 @@
-# AUTOM8TE-MD
-𝐅𝐚𝐬𝐭𝐞𝐫 • 𝐑𝐞𝐥𝐢𝐚𝐛𝐥𝐞 • 𝐒𝐚𝐟𝐞
+<p align="center">
+  <img src="assets/banner.png" alt="AUTOM8TE MD - Faster, Reliable, Safe" width="100%">
+</p>
 
-# AUTOM8TE MD Releases
+<h3 align="center">A WhatsApp Multi Device bot, built with Baileys and Node.js. Simple and strong.</h3>
 
-This public repository holds release information only. It contains no bot code and no website code.
+<p align="center">
+  <img alt="Latest version" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fadevos-x%2FAUTOM8TE-MD%2Fmain%2Fversion.json&query=%24.latest&label=version&color=2dd4a8&style=for-the-badge">
+  <img alt="Commands" src="https://img.shields.io/badge/commands-450%2B-2dd4a8?style=for-the-badge">
+  <img alt="Availability" src="https://img.shields.io/badge/available-24%2F7-2dd4a8?style=for-the-badge">
+</p>
 
-- `version.json` tells the system which version every bot should run.
-- `CHANGELOG.md` lists what changed in each version.
+<p align="center">
+  <a href="https://md.adevosxtech.site"><img alt="Connect your bot" src="https://img.shields.io/badge/CONNECT_YOUR_BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://youtube.com/shorts/L7vuoTydOdQ"><img alt="Watch the tutorial" src="https://img.shields.io/badge/WATCH_TUTORIAL-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="CHANGELOG.md"><img alt="Changelog" src="https://img.shields.io/badge/CHANGELOG-181717?style=for-the-badge&logo=readme&logoColor=white"></a>
+  <a href="https://github.com/adevos-x"><img alt="GitHub" src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
-## Version numbers
+---
 
-`MAJOR.MINOR.PATCH`
+## Get your own bot in 3 steps
 
-| Change | Example | Bump |
+| | Step | What happens |
 |---|---|---|
-| New features | new commands | MINOR (1.0.0 to 1.1.0) |
-| Bug fixes | corrected a command | PATCH (1.0.0 to 1.0.1) |
-| Large or breaking changes | settings changed | MAJOR (1.0.0 to 2.0.0) |
+| **1** | Open **[md.adevosxtech.site](https://md.adevosxtech.site)** and tap **Connect** | Choose a pair code or a QR code |
+| **2** | Link your WhatsApp | Enter the code in *Linked devices*, or scan the QR |
+| **3** | Wait a minute | Your bot is deployed for you and replies on your number |
 
-## version.json
+Prefer to stay in WhatsApp? Send `.pair 2547XXXXXXXX` to any AUTOM8TE MD bot. It sends you a code, and your own bot is deployed as soon as you link.
 
-| Field | Meaning |
+## Features
+
+- **Always on.** Your bot stays online around the clock, replying and acting while you are away.
+- **450+ commands.** Media tools, downloaders, stickers, AI tools, games, utilities and more. Send `.menu` to see them all.
+- **Protection and automation.** Status tools, group protections and owner automation commands built in.
+- **Stays up to date.** Send `.update` and the bot updates itself to the latest release, keeping your WhatsApp session linked.
+
+## Handy commands
+
+| Command | What it does |
 |---|---|
-| `latest` | The version every app should run |
-| `min` | Apps below this are shown as behind and should be updated soon |
-| `ref` | The tag (or branch) of the private bot repository this version is built from |
-| `released` | Release date |
-| `notes` | Short lines shown to users when they send `.update` |
+| `.menu` | Shows every command and the installed version |
+| `.pair <number>` | Gets a pairing code and deploys a bot for that number |
+| `.update` | Updates your bot to the latest version (shows what is new) |
+| `.restart` | Restarts your bot |
+| `.repo` | Links to the website, this repository and the GitHub account |
+| `.tutorial` | Step by step guide and the tutorial video |
 
-## How to publish a release
+## Versions and updates
 
-1. In the private bot repository, set `version` in `package.json`, commit, and create a tag, for example `v1.1.0`.
-2. Edit `version.json` here: set `latest`, `ref` (the tag), `released` and `notes`. Raise `min` only for important fixes.
-3. Add the entry to `CHANGELOG.md` and commit.
+Every release has a number: `MAJOR.MINOR.PATCH`.
 
-Within a minute the control server reads the new file. Then either:
+| Change | Example | Number goes |
+|---|---|---|
+| New features | new commands | `1.0.0` to `1.1.0` |
+| Fixes | a command repaired | `1.0.0` to `1.0.1` |
+| Big changes | settings change | `1.0.0` to `2.0.0` |
 
-- send `.update` from a bot, which updates that one bot, or
-- use the admin dashboard, Updates, to update the available apps first and then all apps.
+The latest version is shown in the badge at the top and in [`version.json`](version.json). Everything that changed is in the [changelog](CHANGELOG.md). Bots only change when a new release is published, so a bot never changes unexpectedly.
 
-Pushing code to the private repository does not change running apps. Only a new `version.json` does.
+<!--
+Screenshots: add the pictures to assets/screenshots/ and remove this comment markers.
+Hide phone numbers and names first.
 
-## Rolling back
+## Screenshots
 
-Put the previous version and tag back into `version.json` and run the update from the dashboard.
+| Menu | Features | Downloads |
+|---|---|---|
+| <img src="assets/screenshots/menu.png" width="250"> | <img src="assets/screenshots/features.png" width="250"> | <img src="assets/screenshots/play.png" width="250"> |
+-->
 
+## Use it responsibly
+
+WhatsApp can ban numbers that send spam or use heavy automation. Do not use broadcast or bulk commands on people who have not messaged you first, avoid unknown links and mass group joins, and use a secondary number if you are unsure.
+
+---
+
+<p align="center"><b>Powered by Adevos-X Tech</b></p>
