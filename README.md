@@ -59,16 +59,14 @@ Every release has a number: `MAJOR.MINOR.PATCH`.
 
 The latest version is shown in the badge at the top and in [`version.json`](version.json). Everything that changed is in the [changelog](CHANGELOG.md). Bots only change when a new release is published, so a bot never changes unexpectedly.
 
-<!--
-Screenshots: add the pictures to assets/screenshots/ and remove this comment markers.
-Hide phone numbers and names first.
-
 ## Screenshots
 
-| Menu | Features | Downloads |
-|---|---|---|
-| <img src="assets/screenshots/menu.png" width="250"> | <img src="assets/screenshots/features.png" width="250"> | <img src="assets/screenshots/play.png" width="250"> |
--->
+<table>
+  <tr>
+    <td align="center"><img src="assets/screenshots/menu.png" width="300" alt="The menu"><br><sub>The menu</sub></td>
+    <td align="center"><img src="assets/screenshots/update.png" width="300" alt="Updating the bot with .update"><br><sub>Update with <code>.update</code></sub></td>
+  </tr>
+</table>
 
 ## Use it responsibly
 
