@@ -1,7 +1,7 @@
 {
-  "latest": "1.0.3",
+  "latest": "1.0.4",
   "min": "1.0.0",
-  "ref": "v1.0.3",
+  "ref": "v1.0.4",
   "released": "2026-10-24",
   "notes": [
     "Fixed & added AI cmds",
