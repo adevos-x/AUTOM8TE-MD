@@ -64,8 +64,10 @@ The latest version is shown in the badge at the top and in [`version.json`](vers
 <table>
   <tr>
     <td align="center"><img src="assets/screenshots/menu.png" width="300" alt="The menu"><br><sub>The menu</sub></td>
-    <td align="center"><img src="assets/screenshots/features.png" width="300" alt="Clean Look"><br><sub>Update with <code>.update</code></sub></td>
-  </tr>
+    <td align="center"><img src="assets/screenshots/features.png" width="300" alt="Clean Look"><br><sub>Full Customisable <code>.Bot</code></sub></td>
+    </tr>
+<td align="center"><img src="assets/screenshots/play.png" width="300" alt="Support buttons"><br><sub>Good experience <code>.play</code></sub></td>
+    </tr>
 </table>
 
 ## Use it responsibly
