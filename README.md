@@ -64,7 +64,7 @@ The latest version is shown in the badge at the top and in [`version.json`](vers
 <table>
   <tr>
     <td align="center"><img src="assets/screenshots/menu.png" width="300" alt="The menu"><br><sub>The menu</sub></td>
-    <td align="center"><img src="assets/screenshots/update.png" width="300" alt="Updating the bot with .update"><br><sub>Update with <code>.update</code></sub></td>
+    <td align="center"><img src="assets/screenshots/features.png" width="300" alt="Clean Look"><br><sub>Update with <code>.update</code></sub></td>
   </tr>
 </table>
 
