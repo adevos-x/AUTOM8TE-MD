@@ -5,6 +5,14 @@ Send `.update` to your bot to get the latest version.
 
 Format: **Added** new things, **Changed** things that work differently, **Fixed** things that were broken.
 
+## [1.0.5] - 2026-10-29
+
+### Fixed 
+- sticker commands
+- play command
+- post groupstatus 
+
+
 ## [1.0.2] - 2026-10-24
 
 ### Added
