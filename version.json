@@ -1,12 +1,11 @@
 {
-  "latest": "1.0.4",
+  "latest": "1.0.5",
   "min": "1.0.0",
-  "ref": "v1.0.4",
-  "released": "2026-10-24",
+  "ref": "v1.0.5",
+  "released": "2026-10-29",
   "notes": [
-    "Fixed & added AI cmds",
-    "Fixed Sports cmds",
-    "Fixed Chatbot working",
-    "Sticker to image"
+    "Play command",
+    "Post groupstatus",
+    "Image to sticker"
   ]
 }
