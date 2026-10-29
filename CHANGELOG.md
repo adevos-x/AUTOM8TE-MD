@@ -5,7 +5,7 @@ Send `.update` to your bot to get the latest version.
 
 Format: **Added** new things, **Changed** things that work differently, **Fixed** things that were broken.
 
-## [1.0.5] - 2026-10-29
+## [1.0.6] - 2026-10-29
 
 ### Fixed 
 - sticker commands
