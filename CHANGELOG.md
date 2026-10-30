@@ -8,8 +8,10 @@ Format: **Added** new things, **Changed** things that work differently, **Fixed*
 ## [1.0.7] - 2026-10-31
 
 ### Fixed 
-- Some common issues 
-###Added
+- Some common issues
+
+
+### Added
 - Antigroupstatus cmd
 
 ## [1.0.6] - 2026-10-29
