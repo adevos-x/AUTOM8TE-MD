@@ -1,11 +1,11 @@
 {
-  "latest": "1.0.6",
+  "latest": "1.0.7",
   "min": "1.0.0",
-  "ref": "v1.0.6",
-  "released": "2026-10-29",
+  "ref": "v1.0.7",
+  "released": "2026-10-31",
   "notes": [
-    "Play command",
-    "Post groupstatus",
-    "Image to sticker"
+    "Added antigroupstatus cmd",
+    "Fixed some common issues",
+    "Rebuild groups join"
   ]
 }
