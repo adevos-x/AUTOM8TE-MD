@@ -1,11 +1,11 @@
 {
-  "latest": "1.0.7",
+  "latest": "1.0.8",
   "min": "1.0.0",
-  "ref": "v1.0.7",
-  "released": "2026-10-31",
+  "ref": "v1.0.8",
+  "released": "2026-11-4",
   "notes": [
-    "Added antigroupstatus cmd",
-    "Fixed some common issues",
-    "Rebuild groups join"
+    "Added chatbot customization",
+    "Fixed animated sticker converting",
+    "Added menus category cmds"
   ]
 }
