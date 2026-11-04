@@ -5,6 +5,17 @@ Send `.update` to your bot to get the latest version.
 
 Format: **Added** new things, **Changed** things that work differently, **Fixed** things that were broken.
 
+## [1.0.8] - 2026-11-4
+
+### Added
+- Category menus:
+- Chatbot customisation:
+
+### Fixed 
+- sticker commands
+- play command
+
+
 ## [1.0.7] - 2026-10-31
 
 ### Fixed 
