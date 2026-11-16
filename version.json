@@ -1,11 +1,11 @@
 {
-  "latest": "1.0.8",
+  "latest": "1.1.0",
   "min": "1.0.0",
-  "ref": "v1.0.8",
+  "ref": "v1.1.0",
   "released": "2026-11-4",
   "notes": [
-    "Added chatbot customization",
-    "Fixed animated sticker converting",
-    "Added menus category cmds"
+    "Fixed chatbot",
+    "Fixed AI Commands",
+    "Fixed Medi Commands"
   ]
 }
