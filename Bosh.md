@@ -11,10 +11,10 @@
 </p>
 
 <p align="center">
-  <a href="https://md.adevosxtech.site"><img alt="Connect your bot" src="https://img.shields.io/badge/CONNECT_YOUR_BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://md.BosHtech.site"><img alt="Connect your bot" src="https://img.shields.io/badge/CONNECT_YOUR_BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="https://youtube.com/shorts/L7vuoTydOdQ"><img alt="Watch the tutorial" src="https://img.shields.io/badge/WATCH_TUTORIAL-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <a href="CHANGELOG.md"><img alt="Changelog" src="https://img.shields.io/badge/CHANGELOG-181717?style=for-the-badge&logo=readme&logoColor=white"></a>
-  <a href="https://github.com/adevos-x"><img alt="GitHub" src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/BosH-x"><img alt="GitHub" src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
@@ -23,11 +23,11 @@
 
 | | Step | What happens |
 |---|---|---|
-| **1** | Open **[md.adevosxtech.site](https://md.adevosxtech.site)** and tap **Connect** | Choose a pair code or a QR code |
+| **1** | Open **[md.BosHtech.site](https://md.BosHtech.site)** and tap **Connect** | Choose a pair code or a QR code |
 | **2** | Link your WhatsApp | Enter the code in *Linked devices*, or scan the QR |
 | **3** | Wait a minute | Your bot is deployed for you and replies on your number |
 
-Prefer to stay in WhatsApp? Send `.pair 2547XXXXXXXX` to any AUTOM8TE MD bot. It sends you a code, and your own bot is deployed as soon as you link.
+Prefer to stay in WhatsApp? Send `.pair 2567XXXXXXXX` to any AUTOM8TE MD bot. It sends you a code, and your own bot is deployed as soon as you link.
 
 ## Features
 
@@ -76,4 +76,4 @@ WhatsApp can ban numbers that send spam or use heavy automation. Do not use broa
 
 ---
 
-<p align="center"><b>Powered by Adevos-X Tech</b></p>
+<p align="center"><b>Powered by BosH-X Tech</b></p>
